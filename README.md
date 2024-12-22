@@ -1,6 +1,7 @@
 
 <a href="https://taylor-monet.github.io/taylor-monet-developer-site/" style="display: inline-block; padding: 10px 15px; background-color #EOCE24; color: white; text-decoration: none; border-radius 5px; font-weight: bold;">
 Visit my portfolio 
+</a>
 
 Digital Portfolio
 
