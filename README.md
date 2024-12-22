@@ -1,3 +1,7 @@
+
+<a href="https://taylor-monet.github.io/taylor-monet-developer-site/" style="display: inline-block; padding: 10px 15px; background-color #EOCE24; color: white; text-decoration: none; border-radius 5px; font-weight: bold;">
+Visit my portfolio 
+
 Digital Portfolio
 
 Welcome to my digital portfolio! This repository showcases my skills, projects, and accomplishments as I embark on my journey to secure an entry-level position in software development.
@@ -5,3 +9,4 @@ Welcome to my digital portfolio! This repository showcases my skills, projects, 
 About Me
 
 With a foundation in fashion and design, I bring a creative and detail-oriented mindset to technology. Over the past year, I have been immersed in learning programming and developing technical skills, driven by a passion for building functional and visually appealing solutions. By combining my artistic background with technical expertise, I aim to create user-centric applications that solve real-world problems. I am eager to collaborate with teams and grow as a developer in the tech industry.
+
